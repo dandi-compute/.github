@@ -19,7 +19,7 @@ The planned stages are:
 
 The current timeline for progressing through these stages has not yet been decided.
 
-If you would like to sign up for updates, please contact `help@dandiarchive.org` with the subject line `Request: Updates on DANDI-Compute`.
+If you would like to sign up for updates, please contact `info@dandiarchive.org` with the subject line `Request: Updates on DANDI-Compute`.
 
 
 
