@@ -1,4 +1,4 @@
-#👋 Welcome to DANDI Compute!
+# 👋 Welcome to DANDI Compute!
 
 This is an upcoming experimental service for running a limited number of pre-approved data processing pipelines directly on DANDI Datasets - for free!
 
