@@ -4,6 +4,9 @@ This is an upcoming experimental service for running a limited number of pre-app
 
 All you need to do is upload your data to the DANDI Archive.
 
+Currently, this service only includes the [AIND ephys pipeline](https://aind-ephys-pipeline.readthedocs.io/en/latest/) for spike sorting.
+- See their publication for more details: [Efficient and reproducible pipelines for spike sorting large-scale electrophysiology data](https://www.biorxiv.org/content/10.1101/2025.11.12.687966v1).
+
 
 
 ## Roadmap
