@@ -1,6 +1,8 @@
 # 👋 Welcome to DANDI Compute!
 
-This is an upcoming experimental service for running a limited number of pre-approved data processing pipelines directly on DANDI Datasets - for free!
+This is an upcoming experimental service for running a limited number of pre-approved data processing pipelines directly on DANDI Datasets.
+
+A certain number of compute hours (including GPU) are planned to be made available to smaller experimental groups at no cost.
 
 All you need to do is upload your data to the DANDI Archive.
 
