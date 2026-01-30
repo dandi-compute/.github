@@ -15,3 +15,7 @@ All individual Dandisets contained in this repository compose [dandi/dandisets](
 - :book: [The DANDI Handbook](https://www.dandiarchive.org/handbook)
 - :tv: [The DANDI Youtube channel](https://www.youtube.com/channel/UCsLLBNhtcV-wL8cCZWveDCA)
 - :raising_hand: [Support forum](https://github.com/dandi/helpdesk/)
+
+### Related Efforts
+
+- https://github.com/OpenNeuroStudies/OpenNeuroStudies/ - [BIDS Study](https://bids-specification.readthedocs.io/en/stable/common-principles.html#study-dataset) organization of [OpenNeuro](https://openneuro.org) datasets and their derivatives.
